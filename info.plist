@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>svfu2000@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Alexander Böhn</string>
+	<key>description</key>
+	<string>Bundle for the Python-based &lt;a href="https://gyp.gsrc.io"&gt;GYP build tool&lt;/a&gt; (née “Generate Your Project”). Based on &lt;a href="https://github.com/vidmaker/gyp-sublime-text"&gt;a TextMate language grammar&lt;/a&gt; originally by &lt;a href="https://github.com/vidmaker"&gt;vidmaker&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>GYP</string>
+	<key>uuid</key>
+	<string>FB37DFE3-91CE-4A61-874A-2261F4E348BC</string>
+</dict>
+</plist>
